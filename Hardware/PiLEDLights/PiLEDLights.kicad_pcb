@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Fabrication/")
 		)
 	)
 	(net 0 "")
@@ -100,7 +100,7 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 0.1)
+					(thickness 0.15)
 					(bold yes)
 				)
 			)
@@ -343,7 +343,8 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 0.1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -585,7 +586,8 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 0.1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -834,12 +836,12 @@
 			)
 		)
 		(property "Value" "100"
-			(at 0 -1.65 -90)
+			(at -0.012487 -1.430736 270)
 			(layer "B.Fab")
 			(uuid "f7c10375-1b1b-41f6-a00d-54e7a1950cb5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.65 0.65)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -1055,13 +1057,14 @@
 			)
 		)
 		(property "Value" "100"
-			(at 0 -1.65 -90)
+			(at 0.009236 -1.359174 270)
 			(layer "B.Fab")
 			(uuid "4bb679c0-87c4-48b4-a272-cd1cfc5e55f3")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.65 0.65)
 					(thickness 0.15)
+					(bold yes)
 				)
 				(justify mirror)
 			)
@@ -1572,12 +1575,12 @@
 			)
 		)
 		(property "Value" "100"
-			(at 0 -1.65 0)
+			(at 0 1.5 0)
 			(layer "B.Fab")
 			(uuid "9d654d7d-7e50-4d8c-92cb-c4c11997bfe6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.65 0.65)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -1790,7 +1793,8 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -1802,7 +1806,8 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -1814,7 +1819,8 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -1826,7 +1832,8 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)

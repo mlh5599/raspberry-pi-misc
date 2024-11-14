@@ -1,21 +1,21 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
-%TF.CreationDate,2024-10-30T20:06:29-05:00*%
+%TF.CreationDate,2024-11-14T16:48:07-06:00*%
 %TF.ProjectId,PiLEDLights,50694c45-444c-4696-9768-74732e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.6) date 2024-10-30 20:06:29*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2024-11-14 16:48:07*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
 %TA.AperFunction,ComponentPad*%
-%ADD10R,1.800000X1.800000*%
+%ADD10C,1.800000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
-%ADD11C,1.800000*%
+%ADD11R,1.800000X1.800000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
 %ADD12R,1.700000X1.700000*%
@@ -25,28 +25,27 @@ G04 APERTURE LIST*
 %TD*%
 G04 APERTURE END LIST*
 D10*
-%TO.P,Yellow,1,K*%
-%TO.N,Net-(D1-K)*%
-X124000000Y-93540000D03*
-D11*
 %TO.P,Yellow,2,A*%
 %TO.N,Net-(D2-A)*%
 X124000000Y-91000000D03*
+D11*
+%TO.P,Yellow,1,K*%
+%TO.N,Net-(D1-K)*%
+X124000000Y-93540000D03*
 %TD*%
 D10*
-%TO.P,Green,1,K*%
-%TO.N,Net-(D1-K)*%
-X130000000Y-93540000D03*
-D11*
 %TO.P,Green,2,A*%
 %TO.N,Net-(D1-A)*%
 X130000000Y-91000000D03*
+D11*
+%TO.P,Green,1,K*%
+%TO.N,Net-(D1-K)*%
+X130000000Y-93540000D03*
 %TD*%
-D10*
 %TO.P,Red,1,K*%
 %TO.N,Net-(D1-K)*%
 X118000000Y-93540000D03*
-D11*
+D10*
 %TO.P,Red,2,A*%
 %TO.N,Net-(D3-A)*%
 X118000000Y-91000000D03*
